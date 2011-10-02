@@ -1,0 +1,5 @@
+#!/bin/bash
+
+clear;
+rm .heap;
+g++ ./*.cpp -o ../bin/test -g
